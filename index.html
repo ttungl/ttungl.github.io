@@ -103,6 +103,7 @@ Westlake Village, CA 91362<br>
 <p>
 <h3>Upcoming News</h3>
 <!-- 07/28/18: I will be joining <a href="http://www.jdpower.com/"><b>J.D.Power</b></a> as a Data Scientist.<br> -->
+12/08/19: Running Half Marathon Riverside Lexus, CA<br>
 11/16/19: Running Half Marathon Palos Verdes Lexus, CA<br>
 10/20/19: Running Half Marathon Ventura Lexus, CA<br>
 09/25/19: Staycation in Santa Barbara, CA<br>
