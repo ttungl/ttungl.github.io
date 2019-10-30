@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <link rel="canonical" href="http://ttungl.github.io/">
+    <link rel="icon" href="./TungLe_files/favicon.ico">
+    <link rel="stylesheet" href="./TungLe_files/main.css">
+
+<style type="text/css">
+:root #header + #content > #left > #rlblock_left,
+:root #content > #right > .dose > .dosesingle,
+:root #content > #center > .dose > .dosesingle
+{ display: none !important; }</style><script type="text/javascript">try {
+window.AG_onLoad = function(func) { if (window.addEventListener) { window.addEventListener('DOMContentLoaded', func); } };
+window.AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
+window.AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
+window.AG_each = function(selector, fn) { if (!document.querySelectorAll) return; var elements = document.querySelectorAll(selector); for (var i = 0; i < elements.length; i++) { fn(elements[i]); }; };
+var AG_removeParent = function(el, fn) { while (el && el.parentNode) { if (fn(el)) { el.parentNode.removeChild(el); return; } el = el.parentNode; } };
+var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
+var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
+var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
+var AG_each = function(selector, fn) { if (!document.querySelectorAll) return; var elements = document.querySelectorAll(selector); for (var i = 0; i < elements.length; i++) { fn(elements[i]); }; };
+var AdFox_getCodeScript = function() {};
+AG_onLoad(function() { AG_each('iframe[id^="AdFox_iframe_"]', function(el) { if (el && el.parentNode) { el.parentNode.removeChild(el); } }); });
+try { Object.defineProperty(window, 'noAdsAtAll', { get: function() { return true; } }); } catch (ex) {}
+} catch (ex) { console.error('Error executing AG js: ' + ex); }</script>
+
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+    <a class="site-title" href="http://ttungl.github.io">Tung Thanh Le</a>
+
+    <nav class="site-nav">
+      <a href="http://ttungl.github.io/#" class="menu-icon">
+      </a>
+      <div class="trigger">
+        
+          <a class="page-link" href="http://ttungl.github.io/">Home</a>
+
+      </div>
+    </nav>
+
+<!-- recaptcha         -->
+<!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
+
+<!--     <form action="?" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Le7YCITAAAAADGUsJ7z8Khbd5E-HSsSEgzD0Ska"></div>
+      <br/>
+      <input type="submit" value="Submit">
+    </form>  -->
+<!--        end recaptcha -->
+        
+</header>
+
+    <div class="page-content">
+      <div class="infodiv">
+
+<!-- <p>
+<b><a href=""><img src='./misc_files/bell.png' alt='twit-ter' width=20.5></a> I am actively seeking a Full-time position.</b>
+</p> -->
+
+<a href="https://www.jdpower.com/" title="J.D. POWER">J.D. POWER</a><br>
+30870 Russell Ranch Rd #300<br>
+Westlake Village, CA 91362<br>
+</p>
+
+<p>
+<a href=""><img src='./misc_files/email1.png' alt='email' width=17.5></a>
+
+                <a href="http://www.google.com/recaptcha/mailhide/d?k=01xS_J9JDcypE8cnqQhi8JJA==&amp;c=FqqIh2KTj0ElJpm1UOEwriGRKNLQgBDfibDZHcoev3M=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01xS_J9JDcypE8cnqQhi8JJA\x3d\x3d\x26c\x3dFqqIh2KTj0ElJpm1UOEwriGRKNLQgBDfibDZHcoev3M\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">gmail</a> |
+<!-- 
+<a href="http://www.google.com/recaptcha/mailhide/d?k=01JYILKIDvbZPewTan9-HJQw==&amp;c=FyFsZgWaTMVHnfAGSJ0u-UOIsKKJvh42xsAe9I3UkKc=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01JYILKIDvbZPewTan9-HJQw\x3d\x3d\x26c\x3dFyFsZgWaTMVHnfAGSJ0u-UOIsKKJvh42xsAe9I3UkKc\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address"></a>gmail |  -->
+
+                <a href="http://www.google.com/recaptcha/mailhide/d?k=011pYTSRdq6StrBSebHd2slw==&amp;c=6MAej0rjUPN5swgXGoqonyAcEo49tZoY70VQiKmzs-Y=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d011pYTSRdq6StrBSebHd2slw\x3d\x3d\x26c\x3d6MAej0rjUPN5swgXGoqonyAcEo49tZoY70VQiKmzs-Y\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">louisiana.edu</a> |
+
+<!-- <a href="http://www.google.com/recaptcha/mailhide/d?k=01vkMwjLPFurfavXm7Po67hQ==&amp;c=dVtYk9Exk6AcDcwpM_niMvW2BzCg9lVbQ_a2O17A3XU=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01vkMwjLPFurfavXm7Po67hQ\x3d\x3d\x26c\x3ddVtYk9Exk6AcDcwpM_niMvW2BzCg9lVbQ_a2O17A3XU\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address"></a>louisiana.edu | -->
+                <!-- <br> -->
+
+<a href="https://twitter.com/ttungl"><img src='./misc_files/twit-ter.png' alt='twit-ter' width=20.5></a> <br>
+
+</p>
+<p>
+<img src="./TungLe_files/TungLe.jpg" alt="Profile photo" height="295px" onContextMenu="return false;">
+</p>
+
+<a href="http://scholar.google.com/citations?user=QRPYyBAAAAAJ&hl=en"><img src='./misc_files/googlescholar2015.png' alt='scholar' width=85.5></a> <a href="https://github.com/ttungl"><img src='./misc_files/octocats.png' alt='octocats' width=35.5><span class="username"></span></a> <a href="http://www.informatik.uni-trier.de/~ley/pers/hc/l/Le:Tung_Thanh.html"><img src='./misc_files/dblp.png' alt='dblp' width=65.5></a> <a href="https://www.linkedin.com/in/tung-thanh-le/"><img src='./misc_files/lin-ked-in.png' alt='linkedin' width=25></a> <a href="./Tung-vita.pdf"><img src='./misc_files/resume23.png' alt='scholar' width=25.5></a>
+<!-- <a href="http://scholar.google.com/citations?user=QRPYyBAAAAAJ&hl=en"><img src='./misc_files/googlescholar2015.png' alt='scholar' width=85.5></a> <a href="https://github.com/ttungl"><img src='./misc_files/octocats.png' alt='octocats' width=35.5><span class="username"></span></a> <a href="http://www.informatik.uni-trier.de/~ley/pers/hc/l/Le:Tung_Thanh.html"><img src='./misc_files/dblp.png' alt='dblp' width=65.5></a> <a href="https://www.linkedin.com/in/tung-thanh-le/"><img src='./misc_files/lin-ked-in.png' alt='linkedin' width=25></a> <a href="https://github.com/ttungl/ttungl.github.io/blob/master/Tung-vita.pdf"><img src='./misc_files/resume23.png' alt='scholar' width=25.5></a>
+ -->
+        
+
+
+
+
+<div class="col-lg-4" style="font-size:75%">
+<p>
+<h3>Upcoming News</h3>
+<!-- 07/28/18: I will be joining <a href="http://www.jdpower.com/"><b>J.D.Power</b></a> as a Data Scientist.<br> -->
+11/16/19: Running Half Marathon Palos Verdes Lexus, CA<br>
+10/20/19: Running Half Marathon Ventura Lexus, CA<br>
+09/25/19: Staycation in Santa Barbara, CA<br>
+09/21/19: Staycation in San Diego, CA<br>
+09/07/19: Running 5K Orange County, CA<br>
+09/01/19: Staycation in Catalina Island, CA<br>
+12/14/18: Received Ph.D. in Computer Science<br>
+10/21/18: Running Half Marathon Ventura Lexus<br>
+09/09/18: Running 10K Santa Monica Classic<br>
+07/30/18: Start working at J.D. Power<br>
+01/24/18: One paper accepted in <a href="http://www.iscas2018.org/">IEEE ISCAS'18</a><br>
+06/27/17: One paper accepted in <a href="https://www.ieee-socc.org/">IEEE SOCC'17</a><br>
+04/24/17: One paper accepted in <a href="http://www.isvlsi.org/">ISVLSI'17</a><br>
+03/05/17: <a href="http://www.ieee-icassp2017.org/">ICASSP'17</a> (volunteer)<br>    
+07/20/16: Home Sweet Home<br>
+05/27/15: Los Angeles, CA<br>
+07/04/14: Texas trip (Houston, Austin)<br>
+04/23/14: <a href="http://cajuncodefest.org/">CajunCodeFest2014</a>, Hackathon: A lot of fun!<br>
+01/08/14: Accepted in Journal Comm. Networks (JCN)<br>
+01/02/14: Accepted in IEEE WCNC 2014<br>
+12/24/13: California trip (Los Angeles, San Diego)<br>
+08/17/13: Lafayette, LA. Welcome back! USA!<br>
+01/08/13: Accepted in IEEE WCNC 2013<br>
+12/01/12: Accepted in IEEE GLOBECOM 2012<br>
+11/27/12: Best paper nominated in CEIC 2012<br>
+07/12/12: Participated in FUSION 2012, Singapore<br>
+
+</p>
+
+<p>
+<h3>Core Courses</h3>
+MOOCs:<br> 
+<b>Machine Learning</b> (Coursera)<br>
+Prof. Andrew Ng (Stanford University)<br>
+License Number: 7MMK9BZBASXN<br>
+<a href="https://www.coursera.org/account/accomplishments/records/7EXQHX72WRS2">Certificate URL</a><br>
+<b>Statistical Learning</b> (Stanford University)<br>
+Prof. Trevor Hastie and Prof. Robert Tibshirani <br>
+License Number: 300b0d4031844c758d7645e39d1ad079 <br>
+<a href="https://prod-cert-bucket.s3.amazonaws.com/downloads/02dae5e429074143950990b1ebb21e2d/Statement.pdf">Certificate URL</a><br>
+<b>Java Multithreading</b> (Udemy)<br>
+John Purcell<br>
+License Number: UC-TBSY47EV<br>
+<a href="https://www.udemy.com/certificate/UC-TBSY47EV/">Certificate URL</a><br>
+<b>Deep Learning</b> (Udacity)<br>
+Dr. Vincent Vanhoucke (Google Brain)<br>
+
+
+<br>
+From University of Louisiana:<br>
++ CSCE 555: Principles of Operating Systems<br>
++ CSCE 553: Principles of Software Methodology<br>
++ CSCE 550: Principles of Programming Language<br>
++ CSCE 576: Mobile Computing & Applications<br>
++ CSCE 575: Wireless Computing & Network Systems<br>
++ CSCE 536: Embedded Systems Design<br>
++ CSCE 530: Principles of Computer Architecture<br>
++ CSCE 500: Design and Analysis of Algorithms<br>
++ CMPS 460: Database Management Systems<br>
+<br>
+From Kumoh National Institute of Technology:<br>
++ Computer Networks (Tanenbaum)<br>
++ Wireless Communication Theory (David Tse)<br>
++ Probability and Random Processes (John A. Gubner)<br>
+</p>
+
+<p>
+<h3>Inspiring me</h3>
+<a href="https://youtu.be/a1zDuOPkMSw">You and your research</a>, Robert Hamming<br>
+<a href="https://youtu.be/XTMmJlvSsG4">Because dreaming is beginning of everything</a>, D.-L Le<br>
+<a href="https://youtu.be/UNP03fDSj1U">Try something new for 30 days</a>, Matt Cutts<br>
+<a href="https://youtu.be/ji5_MqicxSo">Last Lecture</a>, Randy Pausch<br>
+<a href="https://youtu.be/UF8uR6Z6KLc">Stanford Commencement</a>, Steve Jobs<br>
+</p>
+
+<!-- <p>
+<a class="twitter-timeline" data-width="250" data-height="750" href="https://twitter.com/ttungl">Tweets by ttungl</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p> -->
+<!-- <a href="http://louisiana.edu/"><img src='./misc_files/ull_logo1.png' alt='ulllogo' width=175.5></a> -->
+<!-- <p></p> -->
+<!-- <a href="http://eng.kumoh.ac.kr/e_new/"><img src='./misc_files/kit1.jpg' alt='kit' width=195.5></a> -->
+<!-- <p></p> -->
+<!-- <a href=""><img src='./misc_files/dut.png' alt='dut' width=75.5></a> -->
+
+</div>
+
+</div>
+
+<!-- <p>
+<b><a href=""><img src='./misc_files/bell.png' alt='twit-ter' width=20.5></a> I am actively seeking a Full-time position.</b>
+</p> -->
+
+<p>I am currently working as a full-time Data Scientist at <a href="https://www.jdpower.com">J.D. POWER</a> in Westlake Village, Los Angeles, California. I earned my Ph.D. in Computer Science in the
+<a href="http://computing.louisiana.edu/cacs-research">Center For Advanced Computer Studies (CACS)</a>,
+<a href="http://www.louisiana.edu/">University of Louisiana, Lafayette</a>. People officially call me, Dr. Le, however, please just call me Tung, for the sake of cordiality ;). Many thanks to my co-advisors who are <a href="https://ee.louisiana.edu/about-us/faculty-staff">Prof. Magdy A. Bayoumi</a> and <a href="https://www.odu.edu/directory/people/d/dzhao">Prof. Danella Zhao</a> (Old Dominion University). I am interested in computer architecture, networks, machine learning and areas in between. My research projects were on heterogeneous manycore systems. A common theme in my research was the use of optimization methodologies, machine learning techniques, and efficient algorithms to optimize the performance and energy of heterogeneous manycore architectures. My dissertation is public on <a href="https://search.proquest.com/openview/84fb25c9d37e4448e66cdefd482b3a0d">Proquest</a>.
+</p>
+
+<p>
+I received M.S. degree in Computer Science from the University of Louisiana. Before coming to Lafayette, I received another <a href="http://nsl.kumoh.ac.kr/">M.Eng. degree in IT Convergence Engineering</a> from <a href="http://eng.kumoh.ac.kr/eng/index.do">Kumoh National Institute of Technology</a>, Gumi, South Korea. I earned my B.Eng degree in Electrical Engineering from Danang University of Technology, Vietnam (a.k.a Dai Hoc Bach Khoa Da Nang or the current official name is <a href="https://heeap.org/partners/university-danang-university-science-and-technology">The University of Danang - University of Science and Technology, which is one of the three leading technological universities in Vietnam</a>).
+</p>
+
+<h1 id="Projects">Projects</h1>
+
+<h4 id="Softwares">Free Software</h4>
+<ul> 
+  <li>
+      <b>HeteroArchGen4M2S</b>: An automatic software for configuring and running heterogeneous CPU-GPU architectures on Multi2Sim simulator. This tool is built on top of M2S simulator, it allows us to configure various heterogeneous CPU-GPU architectures (e.g., number of CPU cores, GPU cores, L1$, L2$, memory (size and latency (via CACTI 6.5)), network topologies (currently support 2D-Mesh, customized 2D-Mesh, and Torus networks)...). The output files include the results of network throughput and latency, caches/memory access time, and dynamic power of the cores (can be collected after running McPAT). <a href="https://github.com/ttungl/HeteroArchGen4M2S"> <span class="label label-success">[Source code] (Python)</span></a> | <a href="https://github.com/ttungl/HeteroArchGen4M2S/blob/master/HeteroArchGen4M2S.pdf"><span class="label label-success">[PDF manual]</span></a>
+  </li>
+</ul>
+
+
+<h4 id="AI Projects">Machine Learning and Deep Learning Projects</h4>
+
+<ul>
+    <li> 
+      <b>Machine Learning</b> (Coursera License Number: <a href="https://www.coursera.org/account/accomplishments/records/7EXQHX72WRS2">7MMK9BZBASXN</a>)<br> 
+          Implemented the machine learning techniques that cover Linear Regression, Logistic Regression, Neural Networks (feedforward propagation, backpropagation algorithms), Diagnosing Bias/Variance, Evaluating a Hypothesis, Learning Curves, Error Analysis, Support Vector Machines, K-Means Clustering, Principle Component Analysis (PCA), Anomaly Detection System, and Recommender System. <a href="https://github.com/ttungl/Machine-Learning"> <span class="label label-success">[Source codes]</span></a> 
+    </li>
+    <li>
+      <b>Deep Learning by Google Brain</b> on Udacity<br> 
+          Implemented the deep learning techniques using Google <b>Tensorflow</b> that cover deep neural networks with a fully connected network using SGD and ReLUs; Regularization with a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting; Convolutional Neural Networks (CNNs) with learning rate decay and dropout; and Recurrent Neural Networks (RNNs) for text and sequences with Long Short-Term Memory (LSTM) networks. <a href="https://github.com/ttungl/Deep-Learning"> <span class="label label-success">[Source codes] (Python)</span></a> 
+    </li>
+    <li>
+      <b>Behavioral Cloning</b> (Deep Learning)<br>
+      Built and trained a convolutional neural network to drive the car itself autonomously in a simulator using Tensorflow (backend) and Keras. Experimented with a modified Nvidia architecture. Performed image processing with brightness, shadow augmentation, and flipped images. Used dropout and Adam optimizer to generalize the network for driving multiple tracks. The datasets are used via Udacity's source for training the model. Trained the model on Amazon AWS EC2 platform with GPU instances. <a href="https://github.com/ttungl/SDC-term1-Behavioral-Cloning"> <span class="label label-success">[Source codes + Manual]</span></a> | <a href="https://youtu.be/xCkk7keDe5w"><span class="label label-success">[Video demo]</span></a> 
+    </li>
+    <li>
+      <b>Traffic Sign Recognition Classifier</b> (Deep Learning)<br>
+          Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. The datasets are collected from the German Traffic Sign for training and random traffic signs downloaded from internet for testing. <a href="https://github.com/ttungl/SDC-term1-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier_Final.ipynb"> <span class="label label-success">[Source codes]</span></a> | <a href="https://github.com/ttungl/SDC-term1-Traffic-Sign-Classifier/blob/master/writeup_report.md"><span class="label label-success">[manual]</span></a> 
+    </li>
+
+    <li>
+      <b>Creating Customer Segments</b> (Machine Learning)<br>
+          Evaluated what types of customers wholesale distributors have to help them make better, more informed business decisions on the changes of their customers. Used unsupervised learning techniques (K-Means Clustering) to observe any similarities exist between customers. <a href="https://github.com/ttungl/Machine-Learning-Udacity/blob/master/customer_segments/customer_segments.ipynb"> <span class="label label-success">[Source codes]</span> </a>
+    </li>
+
+    <li>
+      <b>Boston Housing Prediction</b> (Machine Learning)<br>
+          Leveraged machine learning techniques to assist clients with finding the best selling price for their homes. Built the optimal model based on a statistical analysis to estimate the best solution for clients’ homes in Boston. <a href="https://github.com/ttungl/Machine-Learning-Udacity/blob/master/boston_housing/boston_housing.ipynb"> <span class="label label-success">[Source codes]</span> </a>
+    </li>
+
+  <li>
+      <b>Titanic Survival Exploration</b> (Machine Learning)<br>
+          Created decision functions that attempt to predict survival outcomes from 1912 Titanic disaster based on the features of passengers. Achieved the predicted accuracy 80.70%. <a href="https://github.com/ttungl/Machine-Learning-Udacity/blob/master/titanic_survival_exploration/titanic_survival_exploration.ipynb"> <span class="label label-success">[Source codes]</span> </a>
+    </li>
+
+  <li>
+      <b>Finding Donors for CharityML</b> (Machine Learning)<br>
+          Helped build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Evaluated and optimized different supervised learners to determine which algorithm will provide the most appropriate solution. <a href="https://github.com/ttungl/Machine-Learning-Udacity/blob/master/finding_donors/finding_donors.ipynb"> <span class="label label-success">[Source codes]</span> </a>
+    </li>
+</ul>
+
+
+<h4 id="DataScience">Data Science Challenges</h4>
+<ul> 
+  <li>
+    <b>Donation Analytics</b> (Insight Data Engineering Challenge): As a data engineer working for political consultants whose clients are cash-strapped political candidates. They've asked for help analyzing loyalty trends in campaign contributions, namely identifying areas of repeat donors and calculating how much they're spending. Identify areas (zip codes) that could be sources of repeat campaign contributions. <a href="https://github.com/ttungl/donation-analytics"> <span class="label label-success">[Source code] (Python)</span></a>
+  </li>
+</ul>
+
+
+<h4 id="CV Projects">Computer Vision and Localization Projects</h4>
+
+<ul>  
+
+  <li>
+    <b>Vehicle Detection and Tracking</b>(Computer Vision)<br>
+        Detected and tracked vehicles using color and histogram of oriented gradient features (HOG), and a support vector machine (SVM) classifier. Performed a HOG feature extraction on a labeled training set of images, and train a classifier Linear SVM classifier. Implemented a sliding-window technique and use the trained classifier to search for vehicles in images. Used heatmap and threshold technique to reject outliers and follow detected vehicles.   
+        <a href="https://github.com/ttungl/SDC-term1-Vehicle-Detection-and-Tracking/blob/master/VehicleDetectionTracking.ipynb"> <span class="label label-success">[Source codes]</span></a> | <a href="https://github.com/ttungl/SDC-term1-Vehicle-Detection-and-Tracking"><span class="label label-success">[manual]</span></a> | <a href="https://www.youtube.com/watch?v=pD9u2tFhqSc"><span class="label label-success">[Video demo]</span></a>
+  </li>
+  <li>
+    <b>Advanced Lane Finding on the road</b>(Computer Vision)<br>
+        Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.  
+        <a href="https://github.com/ttungl/SDC-term1-Advanced-Lane-Finding/blob/master/Advanced%20Lane%20Finding.ipynb"> <span class="label label-success">[Source codes]</span></a> | <a href="https://github.com/ttungl/SDC-term1-Advanced-Lane-Finding"><span class="label label-success">[manual]</span></a> | <a href="https://youtu.be/IGK2Hxb-p24"><span class="label label-success">[Video demo]</span></a>
+  </li>
+
+  <li>
+    <b>Object Detection</b>(Computer Vision)<br>
+        Detect a Phone or not a Phone in the images. Use Logistic Regression to classify the images. Prediction accuracy is achieved at 96.15%. 
+        <a href="https://github.com/ttungl/object-detection"> <span class="label label-success">[Source codes] (Python)</span></a> 
+  </li>
+
+
+  <li>
+    <b>Finding lane lines on the road</b>(Computer Vision)<br>
+        Detected highway lane lines on a video stream. Used OpenCV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection. 
+        <a href="https://github.com/ttungl/SDC-term1-Finding-Lane-Lines-on-Road/blob/master/Finding_Lane_Lines/Finding_lane_lines.ipynb"> <span class="label label-success">[Source codes]</span></a> | <a href="https://github.com/ttungl/SDC-term1-Finding-Lane-Lines-on-Road/blob/master/Finding_Lane_Lines/writeup_report.md"><span class="label label-success">[manual]</span></a> | <a href="https://www.youtube.com/watch?v=PjG6rRI8ce0"><span class="label label-success">[Video demo]</span></a>
+  </li>
+
+  <li>
+    <b>Extended and Unscented Kalman Filters</b> (Lidar and Radar Sensor Funsion)<br>
+        Implemented an Extended Kalman Filter (EKF) algorithm in C++ capable of tracking a pedestrian's motion in two dimensions, and built an Unscented Kalman Filter (UKF), capable of accurately and performantly tracking a turning object in non-linear motion. <a href="https://github.com/ttungl/SDC-term2-Extended-Kalman-Filters"> <span class="label label-success">[EKF code]</span></a> | <a href="https://github.com/ttungl/SDC-term2-Unscented-Kalman-Filters"><span class="label label-success">[UKF code]</span></a> 
+  </li>
+
+  <li>
+    <b>Kidnapped Vehicle</b> (Localization)<br>
+        Implemented a 2 dimensional particle filter in C++ capable of localizing a vehicle within desired accuracy and time. <a href="https://github.com/ttungl/SDC-term2-Kidnapped-Vehicle-Project"> <span class="label label-success">[Source code]</span></a> 
+  </li>
+
+  <li>
+    <b>Model Predictive Control </b> (Control System)<br>
+        Implemented Model Predictive Control to drive the vehicle around the track (even with additional latency between commands). <a href="https://github.com/ttungl/SDC-term2-Model-Predictive-Control"> <span class="label label-success">[Source code]</span> | <a href="https://youtu.be/3PFlztq836s"><span class="label label-success">[Video demo]</a> 
+  </li>
+  
+  <li>
+    <b>PID Controller</b> (Control System)<br>
+        Implemented a PID controller in C++ to maneuver the vehicle around the track. <a href="https://github.com/ttungl/SDC-term2-PID-Control"> <span class="label label-success">[Source code]</span></a> 
+  </li>
+
+</ul>
+
+
+<h4 id="coursework Projects">Coursework Projects</h4>
+<ul>
+  <li>
+    <b>Optimization in Distributed Computing Systems</b> (AMPL CPLEX Optimization Solver)<br>
+        Modeled a system with task scheduling problem as a max-sat problem and translated it into the integer linear programming (ILP) problem. Used the optimization solvers (CPLEX, Gurobi, Xpress) to solve the problem. 
+        <a href="https://github.com/ttungl/AMPL-CPLEX-optimization-solver/tree/master/source%20code"> <span class="label label-success">[Source codes]</span></a> | <a href="https://github.com/ttungl/AMPL-CPLEX-optimization-solver"><span class="label label-success">[manual]</span></a> 
+  </li>
+  <li>
+    <b>Cinema booking database management system</b> (Database)<br>
+        Designed the database system using RDBMS, used MySQL, PHP, and HTML to build the online booking system. Two modes for <a href="https://www.youtube.com/watch?v=-efz0mjcYJ4">admins <img src='./misc_files/playicon.png' alt='admins' width=15></a> and <a href="https://www.youtube.com/watch?v=DpcdudRyiLY">users <img src='./misc_files/playicon.png' alt='users' width=15></a>. <a href="https://github.com/ttungl/Cinema-Booking-System-RDBMS/tree/master/public_html"> <span class="label label-success">[Source code] (PHP & MySQL)</span></a> | <a href="https://github.com/ttungl/Cinema-Booking-System-RDBMS/blob/master/cmps460_SP15_groupE_New_Wave_Cinema.pdf"><span class="label label-success">[PDF manual]</span></a>
+  </li>
+
+  <li>
+    <b>Multi-class inheritance in Scheme functional programming language</b><br>
+        Modified the interpreter for creating new functions of scheme functional programming language. In this work, multi-class inheritance is created. New instance generated is inherited to all the methods from joined classes.<a href="https://github.com/ttungl/Multi-class-inheritance-in-Scheme"> <span class="label label-success">[Source code] (Scheme)</span></a>
+  </li>
+
+  <li>
+    <b>802.11 DCF MAC Protocol for wireless networks</b><br>
+        Implemented with a fully operation of Gillbert-Elliot channel model, RTS/CTS exchange, in different network topologies. Used C++ for implementation.<a href="https://github.com/ttungl/Wireless-network-802-11-DCF-MAC"><span class="label label-success">[Source code] (C++)</span></a> | <a href="https://github.com/ttungl/Wireless-network-802-11-DCF-MAC/blob/master/ttl8614-phase3_docx.pdf"><span class="label label-success">[PDF manual]</span></a>
+  </li>
+
+  <li>
+    <b>Pingo'in mobile application</b><br>
+        This android app is created by using a Google maps API. You can build your list of points of interest (POI) on the Googlemap, then the application will scan your map in the preset radius, if your POIs are within this radius, they will be displayed on your screen. Used Java, Eclipse for building the app, and used SVN for merging the code project.<a href="https://github.com/ttungl/pingoin"> <span class="label label-success">[Source code] (Java)</span></a>
+  </li>
+
+  <li>
+    <b>FPGA design</b><br>
+        Designed an ALU-16bits with basic operations using VHDL, Xilinx ISE, ModelSim. Verified by using Xilinx Spartan 3E FPGA starter kit. Hands-on experience of design and implementation via Stellaris ARM Cortex M3 board.<a href="https://github.com/ttungl/ALU16bitdesgin"> <span class="label label-success">[Source code] (VHDL)</span></a> | <a href="https://github.com/ttungl/Verilog-VHDL-ALU-16bit/blob/master/ALU16%20design.pdf"><span class="label label-success">[PDF manual]</span></a>
+  </li>
+  
+  <li>
+    <b>Java Multithreading</b> (Udemy License Number: <a href="https://www.udemy.com/certificate/UC-TBSY47EV/">UC-TBSY47EV</a>)<br> 
+        Implemented the basis of java multithreading, including the basic threads synchronization, multiple locks using Synchronized Code Blocks, thread pools, countdown latches, Producer-Consumer, Wait and Notify, Low-level Synchronization, Re-entrant Locks, Deadlock, Semaphores, Callable and Future, Interrupting Threads, and Multithreading in Swing with SwingWorker. <a href="https://github.com/ttungl/Java-Multithreading"> <span class="label label-success">[Source codes]</span></a> 
+  </li>
+
+</ul>
+
+
+<h1 id="Professional Experiences">Professional Experiences</h1>
+<ul>
+  <li>07/2018 - present: Data Scientist, J.D. Power, Westlake Village, Los Angeles, California, USA.</li>
+  <li>08/2012 - 01/2013: Research Intern (conducted in NSL), Samsung Thales, South Korea.</li>
+  <li>06/2012 - 08/2012: Summer Intern, Orion Technology Co. Ltd, South Korea.</li>
+  <li>04/2008 - 08/2011: Software Engineer, Unilab, Danang University of Technology, Vietnam.</li>
+  <li>06/2007 - 04/2008: PCB layout & design Engineer, Acronics Systems Inc., San Jose, U.S. (Danang branch).</li>
+</ul>
+
+
+<h1 id="Education">Education</h1>
+<ul>
+  <li>09/2013 - 12/2018: Ph.D., Computer Science, University of Louisiana, Lafayette, LA, U.S.</li>
+  <li>09/2013 - 12/2016: M.S., Computer Science, University of Louisiana, Lafayette, LA, U.S.</li>
+  <li>09/2011 - 06/2013: M.S., IT Convergence Engineering, Kumoh National Institute of Technology, South Korea.</li>
+  <li>09/2002 - 06/2007: B.S., E.E, Danang University of Technology, Vietnam.</li>
+</ul>
+
+
+<h1 id="Honors & Awards">Honors & Awards</h1>
+<ul>
+  <li>Graduate Teaching Assistantship, UL Lafayette (Fall'15 - Spring'18)</li>
+  <li>National Science Foundation (NSF) Graduate Research Fellowship (2013-2015)</li>
+  <li>Best Paper Award - 14th Conference on Electronics & Information Communications (CEIC2012)</li>
+  <li>National IT Industry Promotion Agency (NIPA) scholarship, South Korea (from 2011 to 2013)</li>
+  <li>National Research Foundation of Korea (NRF) scholarship (from 2011 to 2013)</li>
+  <li>Samsung Thales scholarship for student travel grant (2012)</li>
+  <li>Excellent student in Danang University of Technology (continuously from 2004-2007)</li>
+  <li>One of four honor students achieving the maximum grades of the graduation thesis (4/500) in E.E. Department (2007)</li>
+</ul>
+
+
+<h1 id="Teaching">Teaching</h1>
+
+<p>I was a teaching assistant for CMPS351: Computer Organization and Assembly Programming Language from Fall 2015, Spring 2016, Fall 2016, Spring 2017, Fall 2017, and Spring 2018 semesters.</p>
+
+<!-- <h1 id="Professional Services">Professional Services</h1>
+<ul>
+<li> Reviewer of ASP-DAC 2015, IEEE ISCAS 2016, ISCAS 2017</li>
+<li> Reviewer of IEEE Transactions Parallel Computing </li>
+</ul> -->
+
+
+<h1 id="publications">Publications</h1>
+
+<!-- <h4 id="on-submission-review">In Review:</h4>
+
+<ul>
+  <li>
+    <p><a href=" ">Minimal Cost Prediction in Heterogeneous Networks-On-Chip Design</a><br>
+    <b>Tung Thanh Le</b>, Dan Zhao, Magdy Bayoumi<br>
+    </p>
+  </li>
+</ul> -->
+
+<h4 id="on-air">Selected: </h4>
+<a href="http://scholar.google.com/citations?user=QRPYyBAAAAAJ&hl=en">[Full publications]</a>
+
+<ul>
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/8351580">Neuro-NoC: Energy Optimization in Heterogeneous Many-Core NoC using Neural Networks in Dark Silicon Era</a><br>
+     Md Farhadur Reza, <b>Tung Thanh Le</b>, Bappaditya Dey, Magdy Bayoumi, Dan Zhao<br>
+     <i>in Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'18)</i>, May 2018, Florence, Italy.<br>
+    </p>
+  </li>
+</ul>
+
+<ul>
+
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/8226033">Optimizing the Heterogeneous Network On-Chip Design in Manycore Architectures</a><br>
+    <b>Tung Thanh Le</b>, Rui Ning, Dan Zhao, Hongyi Wu, Magdy Bayoumi<br>
+    <i>in Proceedings of the 30th IEEE International System-on-Chip Conference (SOCC'17)</i>, September 2017, Munich, Germany. [+4 citations]<br>
+    </p>
+  </li>
+
+   <li> 
+    <p><a href="https://ieeexplore.ieee.org/document/7987559">Efficient Reconfigurable Global Network-on-chip Designs towards Heterogeneous CPU-GPU Systems: An Application-Aware Approach</a><br>
+    <b>Tung Thanh Le</b>, Dan Zhao, Magdy Bayoumi<br>
+    <i>in Proceedings of the IEEE Computer Society Annual Symposium on VLSI (ISVLSI'17)</i>, July 2017, Bochum, Germany. [+2 citations]<br>
+    <i>(Acceptance rate: ~31%)</i>
+    </p>
+  </li>
+  
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/6812078">An Efficient Throughput Improvement through Bandwidth Awareness in Cognitive Radio Networks</a><br>
+    <b>Tung Thanh Le</b> and Dong-Seong Kim,<br>
+    <i>Journal of Communications and Networks</i> (JCN), Vol. 16, No.2, pp.146-154, 2014. [+9 citations]<br></p>
+  </li>
+
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/6533341">Distributed Cooperative Transmission for Underwater Acoustic Sensor Networks</a><br>
+    Do Duy Tan, <b>Tung Thanh Le</b>, and Dong-Seong Kim,<br>
+    <i>in Proceedings of the IEEE WCNC Workshop</i>, 2013, Shanghai, China. [+40 citations]<br></p>
+  </li>
+  
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/6477702">BAR: Bandwidth-Aware Opportunistic Localized-Routing for Cognitive Radio Networks</a><br>
+    <b>Tung Thanh Le</b>, P. T. Anh Quang, Soo-Young Shin, and Dong-Seong Kim,<br>
+    <i>in Proceedings of the IEEE GLOBECOM Workshop</i>, 2012, Anaheim, California.[+6 citations]<br> </p>
+  </li>
+
+ 
+</ul> 
+    </div>
+
+    <footer class="site-footer">
+ <div class="footer-nav">
+    
+      <a class="page-link" href="http://ttungl.github.io/">Home</a>
+    
+  </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77807908-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+</body></html>
+
+
