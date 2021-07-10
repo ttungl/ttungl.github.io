@@ -1,6 +1,50 @@
 <!DOCTYPE html>
 <html lang="en" class=" js "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+
+
+
+
 <title>Tung Le</title>
 
 <meta name="viewport" content="width=device-width">
@@ -165,7 +209,12 @@
         
         <p>I am a data scientist at <a href="https://www.jdpower.com">J.D.POWER</a>, a big data analytics and consumer intelligence company.</p>
 
-        <p>My <a href="https://www.linkedin.com/in/tung-thanh-le/">linkedin</a> and latest <a href="https://ttungl.github.io/Tung-vita.pdf">resume</a> can be downloaded and reviewed with a guarantee of p-value <= 0.05.</p> 
+        <p>My <a href="https://www.linkedin.com/in/tung-thanh-le/">linkedin</a> and latest <a href="https://ttungl.github.io/Tung-vita.pdf">resume</a> can be downloaded and reviewed with a guarantee of <div class="tooltip">p-value <= 0.05.<span class="tooltiptext">Bam! it means statistically significant</span></div> 
+        </p> 
+
+        <!-- <div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div> -->
 
         <p> My AI and ML projects over the years are sharing on <a href="https://github.com/ttungl">Github</a>.</p> 
 
