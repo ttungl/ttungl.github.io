@@ -308,20 +308,17 @@ ISCAS 2018</p>
 </div> -->
 
         
-document.getElementById("curr_year").innerHTML = new Date().getFullYear();
-footer {
-  text-align: center;
-  font-family: sans-serif;
-}        
-        
-        
-        
-<div class="page__footer-copyright">© <span id="curr_year"></span> Tung Thanh Le.
-  <!-- Powered by <a href="https://jekyllrb.com/" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. -->
+<div class="container">
+    <p class="text-center">Copyright &copy; 
+        <script>
+            var CurrentYear = new Date().getFullYear()
+            document.write(CurrentYear)
+        </script> Tung Thanh Le.
+    </p>
 </div>
-
-      </footer>
-    </div>
+        
+        
+<!-- <div class="page__footer-copyright">© 2022 Tung Thanh Le.</div> -->
 
 
     
